@@ -31,8 +31,6 @@ The bar plot below illustrates the distinct progression in average petal lengths
 * **Versicolor**: $\sim 4.26	ext{ cm}$
 * **Virginica**: $\sim 5.55	ext{ cm}$
 
-![Petal Length Barplot](petal_length_barplot.png)
-
 ---
 
 ## 🔬 Methodology & Pipeline
