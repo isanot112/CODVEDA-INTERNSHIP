@@ -11,7 +11,6 @@ This project covers foundational data science workflows: Data Cleaning, Explorat
 ├── 1) iris.csv                 # Raw & cleaned dataset
 ├── iris_analysis.ipynb         # Complete Google Colab notebook
 ├── petal_length_barplot.png    # Average petal length comparison chart
-├── feature_line_chart.png      # Feature trend line chart across samples
 └── sepal_scatter_plot.png      # Sepal length vs width scatter plot by species
 ```
 
@@ -32,7 +31,6 @@ This project covers foundational data science workflows: Data Cleaning, Explorat
 
 ### 3. Data Visualization (Task 3)
 * **Bar Plots**: Visualized average petal lengths per species using custom color palettes.
-* **Line Charts**: Tracked sequential feature progression across sample indices.
 * **Scatter Plots**: Mapped sepal length against sepal width with hue-based species separation and customized legends.
 * **Image Export**: Exported high-resolution `.png` figures (`dpi=300`) for professional reporting.
 
